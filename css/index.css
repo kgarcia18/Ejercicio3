@@ -1,6 +1,6 @@
 .login{
-    width: 41.4rem;
-    height: 89.6rem;
+    max-width: 41.4rem;
+    height: 100vh;
     margin: auto;
 }
 img{
@@ -8,7 +8,7 @@ img{
     height: 9.4rem;
     position: relative;
     left: 13rem;
-    top: 10rem;
+    top: 5rem;
 }
 .palabras{
     justify-content: center;
@@ -17,7 +17,7 @@ img{
     grid-template-rows: 6.74rem 6.74rem 6.74rem ;
     gap: 1.8rem;
     position: relative;
-    top: 50rem;
+    top: 27rem;
     text-align: center;
 }
 .sing-in {
